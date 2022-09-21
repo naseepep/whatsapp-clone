@@ -31,7 +31,7 @@ class _CallScreenState extends State<CallScreen> {
     CallList(
       avatar:
           "https://www.sanjayjangam.com/wp-content/uploads/2021/12/beautiful-dp-for-whatsapp.jpg",
-      name: "hisham",
+      name: "Zayan",
       callTime: "11:00",
       callType: "audio",
       icon: "incoming",
